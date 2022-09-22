@@ -6,7 +6,7 @@
 Criar um card utilizando HTML e CSS
 
 
-[🔗 É possível acessar o site clicando aqui! 💜](https://fernandadiasm.github.io/order-sumary-component)
+[🔗 É possível acessar o site clicando aqui! 💜](https://fernandadiasm.github.io/order-summary-component/)
 
 
 ## 👩🏻‍💻 Techs
