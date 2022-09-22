@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 
 ## Objetivo do projeto
-Desenvolver um card com um pedido de serviço de stream utilizando HTML e CSS
+Desenvolver um card com o resumo de um pedido de serviço de stream utilizando HTML e CSS
 
 
 [🔗 É possível acessar o site clicando aqui! 💜](https://fernandadiasm.github.io/order-summary-component/)
